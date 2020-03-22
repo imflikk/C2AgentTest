@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "C2AgentTest/1.0.0": {
+        "dependencies": {
+          "NetworkCommsDotNet": "3.0.3"
+        },
+        "runtime": {
+          "C2AgentTest.dll": {}
+        }
+      },
+      "NetworkCommsDotNet/3.0.3": {
+        "runtime": {
+          "lib/NetworkCommsDotNet.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C2AgentTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NetworkCommsDotNet/3.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9PlnaiP7cHz+ICkan/kT2YhGRDfV3V00iCjwUmRRkUtxzo7lN76C+fC9n+tTKcFw7v7Eyq3zqlN+UE7apjTN2Q==",
+      "path": "networkcommsdotnet/3.0.3",
+      "hashPath": "networkcommsdotnet.3.0.3.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\Matt\source\repos\C2AgentTest\C2AgentTest\bin\Debug\netcoreapp3.1\C2AgentTest.exe
+C:\Users\Matt\source\repos\C2AgentTest\C2AgentTest\obj\Debug\netcoreapp3.1\C2AgentTest.csprojAssemblyReference.cache
+C:\Users\Matt\source\repos\C2AgentTest\C2AgentTest\obj\Debug\netcoreapp3.1\C2AgentTest.AssemblyInfoInputs.cache
+C:\Users\Matt\source\repos\C2AgentTest\C2AgentTest\obj\Debug\netcoreapp3.1\C2AgentTest.AssemblyInfo.cs
+C:\Users\Matt\source\repos\C2AgentTest\C2AgentTest\bin\Debug\netcoreapp3.1\C2AgentTest.deps.json
+C:\Users\Matt\source\repos\C2AgentTest\C2AgentTest\bin\Debug\netcoreapp3.1\C2AgentTest.runtimeconfig.json
+C:\Users\Matt\source\repos\C2AgentTest\C2AgentTest\bin\Debug\netcoreapp3.1\C2AgentTest.runtimeconfig.dev.json
+C:\Users\Matt\source\repos\C2AgentTest\C2AgentTest\bin\Debug\netcoreapp3.1\C2AgentTest.dll
+C:\Users\Matt\source\repos\C2AgentTest\C2AgentTest\bin\Debug\netcoreapp3.1\C2AgentTest.pdb
+C:\Users\Matt\source\repos\C2AgentTest\C2AgentTest\bin\Debug\netcoreapp3.1\NetworkCommsDotNet.dll
+C:\Users\Matt\source\repos\C2AgentTest\C2AgentTest\obj\Debug\netcoreapp3.1\C2AgentTest.csproj.CopyComplete
+C:\Users\Matt\source\repos\C2AgentTest\C2AgentTest\obj\Debug\netcoreapp3.1\C2AgentTest.dll
+C:\Users\Matt\source\repos\C2AgentTest\C2AgentTest\obj\Debug\netcoreapp3.1\C2AgentTest.pdb
